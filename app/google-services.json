@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126324122828",
+    "project_id": "homedecar-936dc",
+    "storage_bucket": "homedecar-936dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126324122828:android:7944cce32596a15c134e69",
+        "android_client_info": {
+          "package_name": "com.sarboz.homedecar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126324122828-8npub0eh1bjoa4gomdqovb1q4cb27t6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvleN2N5at_F46yJkYIAe9m-py9_0TnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126324122828-8npub0eh1bjoa4gomdqovb1q4cb27t6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
